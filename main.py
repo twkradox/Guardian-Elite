@@ -662,10 +662,12 @@ async def on_ready():
 
     while True:
         os.system('cls' if os.name == 'nt' else 'clear')
-        choice = input((Colorate.Color(Colors.blue, """
+        choice = input((Colorate.Color(Colors.violet, """
         
         
-        
+                                                                                            
+                         
+                           
                            _____                     _ _               _____ _ _ _       
                           |  __ \                   | (_)             |  ___| (_) |      
                           | |  \/_   _  __ _ _ __ __| |_  __ _ _ __   | |__ | |_| |_ ___ 
